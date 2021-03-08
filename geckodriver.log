@@ -1,0 +1,633 @@
+1615171264215	geckodriver	INFO	Listening on 127.0.0.1:49129
+1615171264228	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4vWLfK"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615171280901	Marionette	INFO	Listening on port 46691
+1615171281072	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014954.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014954.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014950.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014950.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1018010.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1018010.js, line 1: WebGL context was lost.
+1615171298330	Marionette	INFO	Stopped listening on port 46691
+1615171302032	geckodriver	INFO	Listening on 127.0.0.1:40793
+1615171303053	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6eaDo4"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615171317317	Marionette	INFO	Listening on port 44907
+1615171317597	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014954.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014954.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014950.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014950.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1018010.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1018010.js, line 1: WebGL context was lost.
+1615171346394	Marionette	INFO	Stopped listening on port 44907
+1615171350139	geckodriver	INFO	Listening on 127.0.0.1:51365
+1615171351167	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9Pd91A"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615171372979	Marionette	INFO	Listening on port 40173
+1615171373300	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014954.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014954.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014950.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014950.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1018010.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1018010.js, line 1: WebGL context was lost.
+1615171391731	Marionette	INFO	Stopped listening on port 40173
+1615171395960	geckodriver	INFO	Listening on 127.0.0.1:60219
+1615171396977	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8221Z9"
+Traceback (most recent call last):
+  File "/usr/bin/lsb_release", line 25, in <module>
+    import lsb_release
+  File "/usr/lib/python3/dist-packages/lsb_release.py", line 24, in <module>
+    import subprocess
+  File "/usr/lib/python3.6/subprocess.py", line 138, in <module>
+    import selectors
+  File "/usr/lib/python3.6/selectors.py", line 205, in <module>
+    class _BaseSelectorImpl(BaseSelector):
+  File "/usr/lib/python3.6/selectors.py", line 205, in _BaseSelectorImpl
+    class _BaseSelectorImpl(BaseSelector):
+KeyboardInterrupt
+1615171435788	geckodriver	INFO	Listening on 127.0.0.1:36653
+1615171435804	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilesOkgrQ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615171450143	Marionette	INFO	Listening on port 40641
+1615171450221	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014954.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014954.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014950.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014950.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1018010.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1018010.js, line 1: WebGL context was lost.
+1615171475990	Marionette	INFO	Stopped listening on port 40641
+1615171479917	geckodriver	INFO	Listening on 127.0.0.1:52745
+1615171480932	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGSweQF"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615171495278	Marionette	INFO	Listening on port 40757
+1615171495483	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014954.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014954.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014950.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014950.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1018010.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1018010.js, line 1: WebGL context was lost.
+1615171522693	Marionette	INFO	Stopped listening on port 40757
+1615171526526	geckodriver	INFO	Listening on 127.0.0.1:59611
+1615171527541	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0QVNRT"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615171543486	Marionette	INFO	Listening on port 46241
+1615171543702	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014954.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014954.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014950.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014950.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1018010.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1018010.js, line 1: WebGL context was lost.
+1615171562006	Marionette	INFO	Stopped listening on port 46241
+1615171566760	geckodriver	INFO	Listening on 127.0.0.1:60193
+1615171567771	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1rE1aw"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615171585935	Marionette	INFO	Listening on port 35679
+1615171586089	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014954.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014954.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014950.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014950.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1018010.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1018010.js, line 1: WebGL context was lost.
+1615171614606	Marionette	INFO	Stopped listening on port 35679
+1615171621837	geckodriver	INFO	Listening on 127.0.0.1:59107
+1615171622849	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTnkCFQ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615171636064	Marionette	INFO	Listening on port 41991
+1615171636277	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014954.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014954.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014950.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014950.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1018010.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1018010.js, line 1: WebGL context was lost.
+1615171660487	Marionette	INFO	Stopped listening on port 41991
+1615171665840	geckodriver	INFO	Listening on 127.0.0.1:36425
+1615171666854	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile21ejoj"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615171679895	Marionette	INFO	Listening on port 33997
+1615171680190	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014954.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014954.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014950.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014950.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1018010.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1018010.js, line 1: WebGL context was lost.
+1615171704657	Marionette	INFO	Stopped listening on port 33997
+1615171708042	geckodriver	INFO	Listening on 127.0.0.1:51915
+1615171709054	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCPrlYL"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615171727220	Marionette	INFO	Listening on port 39969
+1615171727349	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014954.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014954.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014950.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014950.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1018010.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1018010.js, line 1: WebGL context was lost.
+1615171750090	Marionette	INFO	Stopped listening on port 39969
+1615171756165	geckodriver	INFO	Listening on 127.0.0.1:46693
+1615171757180	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCIU3C8"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615171780346	Marionette	INFO	Listening on port 33859
+1615171780902	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014954.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014954.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014950.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014950.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1018010.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1018010.js, line 1: WebGL context was lost.
+1615171811489	Marionette	INFO	Stopped listening on port 33859
+1615171815813	geckodriver	INFO	Listening on 127.0.0.1:50519
+1615171816828	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilegOHBvN"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1615171969796	geckodriver	INFO	Listening on 127.0.0.1:45799
+1615171969819	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledL0lcp"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615171984963	Marionette	INFO	Listening on port 38843
+1615171985274	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014954.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014954.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014950.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014950.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1018010.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1018010.js, line 1: WebGL context was lost.
+1615172009090	Marionette	INFO	Stopped listening on port 38843
+1615172013176	geckodriver	INFO	Listening on 127.0.0.1:36933
+1615172014191	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilepg4jRw"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615172029206	Marionette	INFO	Listening on port 43365
+1615172029370	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014954.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014954.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014950.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014950.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1018010.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1018010.js, line 1: WebGL context was lost.
+1615172056518	Marionette	INFO	Stopped listening on port 43365
+1615172060288	geckodriver	INFO	Listening on 127.0.0.1:52229
+1615172061296	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileAdz3U7"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615172075627	Marionette	INFO	Listening on port 34727
+1615172075756	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014954.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014954.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014950.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014950.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1018010.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1018010.js, line 1: WebGL context was lost.
+1615172102106	Marionette	INFO	Stopped listening on port 34727
+1615172105899	geckodriver	INFO	Listening on 127.0.0.1:50931
+1615172127893	geckodriver	INFO	Listening on 127.0.0.1:42591
+1615172127916	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNWTyOI"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615172142106	Marionette	INFO	Listening on port 36583
+1615172142393	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014954.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014954.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014950.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014950.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1018010.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1018010.js, line 1: WebGL context was lost.
+1615172165072	Marionette	INFO	Stopped listening on port 36583
+1615172172956	geckodriver	INFO	Listening on 127.0.0.1:33255
+1615172173971	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileBn8Kg0"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615172188771	Marionette	INFO	Listening on port 41305
+1615172188959	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014954.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014954.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014950.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014950.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1018010.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1018010.js, line 1: WebGL context was lost.
+1615172206352	Marionette	INFO	Stopped listening on port 41305
+1615172214752	geckodriver	INFO	Listening on 127.0.0.1:60469
+1615172215767	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUnfPFq"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615172233235	Marionette	INFO	Listening on port 34497
+1615172233404	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014954.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014954.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014950.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014950.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1018010.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1018010.js, line 1: WebGL context was lost.
+1615172258165	Marionette	INFO	Stopped listening on port 34497
+1615172268540	geckodriver	INFO	Listening on 127.0.0.1:38103
+1615172269551	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileAnzoCQ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615172283441	Marionette	INFO	Listening on port 36793
+1615172283563	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014954.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014954.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014950.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014950.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1018010.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1018010.js, line 1: WebGL context was lost.
+1615172302577	Marionette	INFO	Stopped listening on port 36793
+1615172311564	geckodriver	INFO	Listening on 127.0.0.1:58255
+1615172312576	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilel0cAMY"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615172327951	Marionette	INFO	Listening on port 35045
+1615172328292	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014954.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014954.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014950.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014950.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1018010.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1018010.js, line 1: WebGL context was lost.
+1615172351852	Marionette	INFO	Stopped listening on port 35045
+1615172362267	geckodriver	INFO	Listening on 127.0.0.1:59195
+1615172363277	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2uUOyS"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615172377192	Marionette	INFO	Listening on port 35865
+1615172377399	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014954.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014954.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014950.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014950.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1018010.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1018010.js, line 1: WebGL context was lost.
+1615172399598	Marionette	INFO	Stopped listening on port 35865
+1615172408119	geckodriver	INFO	Listening on 127.0.0.1:36513
+1615172409131	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePqZqbd"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615172423235	Marionette	INFO	Listening on port 34465
+1615172423388	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014954.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014954.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014950.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014950.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1018010.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1018010.js, line 1: WebGL context was lost.
+1615172444620	Marionette	INFO	Stopped listening on port 34465
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1615172455813	geckodriver	INFO	Listening on 127.0.0.1:42727
+1615172456830	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHlYY4J"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615172472327	Marionette	INFO	Listening on port 37695
+1615172472564	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014954.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014954.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014950.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014950.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1018010.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1018010.js, line 1: WebGL context was lost.
+1615172494788	Marionette	INFO	Stopped listening on port 37695
+1615172504308	geckodriver	INFO	Listening on 127.0.0.1:54149
+1615172505323	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile69blyg"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615172524429	Marionette	INFO	Listening on port 42599
+1615172524573	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014954.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014954.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014950.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014950.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1018010.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1018010.js, line 1: WebGL context was lost.
+1615172546671	Marionette	INFO	Stopped listening on port 42599
+1615172557627	geckodriver	INFO	Listening on 127.0.0.1:46777
+1615172558642	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilevd1W4P"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615172572646	Marionette	INFO	Listening on port 32779
+1615172572955	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014954.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014954.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014950.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014950.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1018010.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1018010.js, line 1: WebGL context was lost.
+1615172595888	Marionette	INFO	Stopped listening on port 32779
+1615172851982	geckodriver	INFO	Listening on 127.0.0.1:45861
+1615172852005	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileR1OEgm"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615172867459	Marionette	INFO	Listening on port 34157
+1615172867617	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014954.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014954.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014950.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014950.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1018010.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1018010.js, line 1: WebGL context was lost.
+1615172888973	Marionette	INFO	Stopped listening on port 34157
+1615172897578	geckodriver	INFO	Listening on 127.0.0.1:37171
+1615172898589	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezVv3tR"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615172912059	Marionette	INFO	Listening on port 42281
+1615172912456	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014954.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014954.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014950.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014950.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1018010.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1018010.js, line 1: WebGL context was lost.
+1615172936243	Marionette	INFO	Stopped listening on port 42281
+1615172946598	geckodriver	INFO	Listening on 127.0.0.1:34161
+1615172947613	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2G4m1A"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615172963307	Marionette	INFO	Listening on port 39523
+1615172963612	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014954.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014954.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014950.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014950.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1018010.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1018010.js, line 1: WebGL context was lost.
+1615172987189	Marionette	INFO	Stopped listening on port 39523
+1615172996171	geckodriver	INFO	Listening on 127.0.0.1:55723
+1615172997182	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilex0xTGx"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615173016669	Marionette	INFO	Listening on port 46025
+1615173016970	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014954.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014954.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014950.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014950.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1018010.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1018010.js, line 1: WebGL context was lost.
+1615173042983	Marionette	INFO	Stopped listening on port 46025
+1615173051342	geckodriver	INFO	Listening on 127.0.0.1:52933
+1615173052356	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileuHwYVe"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615173067311	Marionette	INFO	Listening on port 33605
+1615173064695	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014954.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014954.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014950.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014950.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1018010.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1018010.js, line 1: WebGL context was lost.
+1615173091350	Marionette	INFO	Stopped listening on port 33605
+1615173102911	geckodriver	INFO	Listening on 127.0.0.1:49861
+1615173103945	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilejcqRkS"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615173118811	Marionette	INFO	Listening on port 35491
+1615173119053	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014954.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014954.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014950.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014950.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1018010.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1018010.js, line 1: WebGL context was lost.
+1615173137892	Marionette	INFO	Stopped listening on port 35491
+1615173146614	geckodriver	INFO	Listening on 127.0.0.1:59859
+1615173147631	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5LlxNA"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615173166967	Marionette	INFO	Listening on port 40443
+1615173167346	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014954.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014954.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014950.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014950.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1018010.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1018010.js, line 1: WebGL context was lost.
+1615173189682	Marionette	INFO	Stopped listening on port 40443
+1615173200462	geckodriver	INFO	Listening on 127.0.0.1:46975
+1615173201474	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8UKlqq"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615173216060	Marionette	INFO	Listening on port 36331
+1615173216373	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014954.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014954.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014950.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014950.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1018010.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1018010.js, line 1: WebGL context was lost.
+1615173232429	Marionette	INFO	Stopped listening on port 36331
+1615173241422	geckodriver	INFO	Listening on 127.0.0.1:40127
+1615173242436	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0vq4PM"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615173260245	Marionette	INFO	Listening on port 38407
+1615173260427	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014954.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014954.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014950.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014950.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1018010.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1018010.js, line 1: WebGL context was lost.
+1615173286285	Marionette	INFO	Stopped listening on port 38407
+1615173296716	geckodriver	INFO	Listening on 127.0.0.1:32867
+1615173297730	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTM6VnC"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615173314477	Marionette	INFO	Listening on port 34453
+1615173314717	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014954.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014954.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014950.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014950.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1018010.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1018010.js, line 1: WebGL context was lost.
+1615173331358	Marionette	INFO	Stopped listening on port 34453
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1615173599559	geckodriver	INFO	Listening on 127.0.0.1:48171
+1615173599582	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileskUiZO"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 775))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 422))
+1615173612981	Marionette	INFO	Listening on port 37157
+1615173613300	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014954.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014954.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014950.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014950.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1018010.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1018010.js, line 1: WebGL context was lost.
+1615173648149	Marionette	INFO	Stopped listening on port 37157
+1615173651895	geckodriver	INFO	Listening on 127.0.0.1:40025
+1615173652906	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUCnrSg"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615173666108	Marionette	INFO	Listening on port 34329
+1615173666327	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014954.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014954.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014950.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014950.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1018010.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1018010.js, line 1: WebGL context was lost.
+1615173755939	Marionette	INFO	Stopped listening on port 34329
+1615173759186	geckodriver	INFO	Listening on 127.0.0.1:60771
+1615173760204	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilegJ6lDI"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 775))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 422))
+1615173772404	Marionette	INFO	Listening on port 40153
+1615173772496	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014954.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014954.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014950.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014950.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1018010.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1018010.js, line 1: WebGL context was lost.
+1615173803340	Marionette	INFO	Stopped listening on port 40153
+1615173807219	geckodriver	INFO	Listening on 127.0.0.1:51885
+1615173808224	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilefOFJ6L"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615173822540	Marionette	INFO	Listening on port 33743
+1615173822744	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014954.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014954.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1018010.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1018010.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014950.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014950.js, line 1: WebGL context was lost.
+1615173852799	Marionette	INFO	Stopped listening on port 33743
+1615173857044	geckodriver	INFO	Listening on 127.0.0.1:47235
+1615173858063	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilefcNvFW"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615173875188	Marionette	INFO	Listening on port 46513
+1615173875530	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014954.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014954.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014950.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014950.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1018010.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1018010.js, line 1: WebGL context was lost.
+1615173907907	Marionette	INFO	Stopped listening on port 46513
+1615173911963	geckodriver	INFO	Listening on 127.0.0.1:37645
+1615173912987	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJ2zuxQ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 775))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 422))
+1615173927275	Marionette	INFO	Listening on port 41231
+1615173927388	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014954.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014954.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014950.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014950.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1018010.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1018010.js, line 1: WebGL context was lost.
+1615173959596	Marionette	INFO	Stopped listening on port 41231
+1615173963670	geckodriver	INFO	Listening on 127.0.0.1:54849
+1615173964680	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletszQ2y"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615173981121	Marionette	INFO	Listening on port 34629
+1615173981252	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014954.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014954.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014950.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014950.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1018010.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1018010.js, line 1: WebGL context was lost.
+1615174009417	Marionette	INFO	Stopped listening on port 34629
+1615174013780	geckodriver	INFO	Listening on 127.0.0.1:39865
+1615174014794	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileC7YFga"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 775))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 422))
+1615174028119	Marionette	INFO	Listening on port 32797
+1615174028278	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014954.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014954.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014950.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014950.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1018010.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1018010.js, line 1: WebGL context was lost.
+1615174066194	Marionette	INFO	Stopped listening on port 32797
+1615174070058	geckodriver	INFO	Listening on 127.0.0.1:46889
+1615174071070	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5SitSL"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 775))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 422))
+1615174084884	Marionette	INFO	Listening on port 37283
+1615174085221	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014954.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014954.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014950.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014950.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1018010.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1018010.js, line 1: WebGL context was lost.
+1615174124944	Marionette	INFO	Stopped listening on port 37283
+1615174128901	geckodriver	INFO	Listening on 127.0.0.1:41837
+1615174129915	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDhpHaO"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615174143582	Marionette	INFO	Listening on port 46027
+1615174143746	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014954.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014954.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014950.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014950.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1018010.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1018010.js, line 1: WebGL context was lost.
+1615174187708	Marionette	INFO	Stopped listening on port 46027
+1615174334935	geckodriver	INFO	Listening on 127.0.0.1:42239
+1615174334960	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQWXjiA"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615174348655	Marionette	INFO	Listening on port 33267
+1615174348756	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014954.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014954.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1018010.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1018010.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014950.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014950.js, line 1: WebGL context was lost.
+1615174383160	Marionette	INFO	Stopped listening on port 33267
+1615174386828	geckodriver	INFO	Listening on 127.0.0.1:47545
+1615174387842	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVvPIxJ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615174400923	Marionette	INFO	Listening on port 45205
+1615174401158	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014950.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014950.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1018010.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1018010.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014954.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014954.js, line 1: WebGL context was lost.
+1615174428592	Marionette	INFO	Stopped listening on port 45205
+1615174690143	geckodriver	INFO	Listening on 127.0.0.1:56477
+1615174690158	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilei9K6xW"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 422))
+1615174703804	Marionette	INFO	Listening on port 44125
+1615174703895	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615174932617	Marionette	INFO	Stopped listening on port 44125
+1615174942053	geckodriver	INFO	Listening on 127.0.0.1:46741
+1615174942078	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletmMrhA"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615174955282	Marionette	INFO	Listening on port 44073
+1615174955435	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014954.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014954.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1018010.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1018010.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014950.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014950.js, line 1: WebGL context was lost.
+1615174991930	Marionette	INFO	Stopped listening on port 44073
+1615174995374	geckodriver	INFO	Listening on 127.0.0.1:34915
+1615174996386	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezyZPMo"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615175009790	Marionette	INFO	Listening on port 46427
+1615175010123	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014954.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014954.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014950.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1014950.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1018010.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/v/s/vsaludable.com.1018010.js, line 1: WebGL context was lost.
+1615175045944	Marionette	INFO	Stopped listening on port 46427
+1615222525029	geckodriver	INFO	Listening on 127.0.0.1:44215
+1615222525058	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9VxPiS"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 775))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 422))
+1615222543849	Marionette	INFO	Listening on port 42157
+1615222544126	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1615222641888	Marionette	INFO	Stopped listening on port 42157
