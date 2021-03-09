@@ -3,53 +3,9 @@ import time
 import os
 import subprocess
 import pyautogui
-
-urlBase = "https://vsaludable.com/"
-# lista = [
-#     "AZMaPQ",
-#     "Vzc4r4",
-#     "Khrli1ga",
-#     "cXvd",
-#     "c5WH",
-#     "1Ej17",
-#     "vmcdCE",
-#     "huPmAIU",
-#     "TApyib1",
-#     "aH6w",
-#     "rLtB",
-#     "AiV4uB",
-#     "W13NV",
-#     "sOC02",
-#     "N0L9Oy",
-#     "UNhef",
-#     "WNhlREt",
-#     "Dt40N",
-#     "QP7klcR",
-#     "dpz1wmrF",
-#     "YW47L",
-#     "kqU6",
-#     "CJB6FFOT",
-#     "pds4",
-#     "GehV",
-#     "YXjifA",
-#     "ZwgbsPH",
-#     "lDqpCd",
-#     "U4nR",
-#     "Ylf3k"]
-lista = [
-    "1uW9",
-    "VRH970q",
-    "md86Qa",
-    "UP3m8o",
-    "7cOpVPPx",
-    "v671ObW",
-    "TCLaM1P",
-    "Jrsi",
-    "DZfnlbG",
-    "WCw5Y"
-]
-# ipInit = '10.0.2.3'
-# counter = 0
+import json
+import runtime
+import random
 
 def abrirConsola(addresses):
     pyautogui.PAUSE = 1.5
@@ -80,33 +36,60 @@ def abrirConsola(addresses):
     pyautogui.hotkey('alt','f4')
     pyautogui.press('enter')
 
+def abrirPagina(url):
+    print(url)
+    driver = Firefox()
 
-def money():
-    # for oct4 in range(17,255):
-    for i in lista[:2]:
-        # try:
-        print(i)
-        driver = Firefox()
-        url = urlBase + i
+    try:
         driver.get(url)
-        pyautogui.moveTo(500, 500, duration=2)
-        pyautogui.moveTo(600, 500, duration=2)
-        time.sleep(11)
-        # print('10.0.2.'+str(oct4)+'  ----------'+lista[i])
-        driver.quit()
+    except Exception as e:
+        print('fallo al cargar {}'.format(url))
+        print(e)
+        return
+
+    pyautogui.moveTo(500, 500, duration=2)
+    pyautogui.moveTo(600, 500, duration=2)
+    time.sleep(11)
+    driver.quit()
 
 
-        # except webbrowser.Error:
-        #     driver.quit()
-        #     print("Algo salio mal")
-        # finally:
-        #     driver.quit()
-        #     print('10.0.2.'+str(oct4)+'  ----------'+lista[i]+"------Error----")
 
-        # addresses = "ip[11]="+"'      addresses: [10.0.2."+ str(oct4) +"/24]'"
-        # abrirConsola(addresses)
-        # print('10.0.2.'+str(oct4)+'  ----------'+lista[i]+' ------- Fin IP')
+def crearVista(servers, urls):
+    # os.system('nordvpn login')
+    # os.system('ciromolina86@gmail.com')
+    # os.system('Atecfi3uPqDYecd')
+    # os.system('nordvpn connect')
+    time.sleep(5)
+    os.system('nordvpn disconnect')
+    time.sleep(5)
+
+    for svr in servers:
+        # conectar al server
+        response = os.system('nordvpn connect {}'.format(svr))
+        time.sleep(5)
+
+        if response == 0:
+            url1 = urls[random.randint(0, len(urls))]
+            url2 = urls[random.randint(0, len(urls))]
+
+            for url in [url1, url2]:
+                # print(url)
+                abrirPagina(url)
+
+            # desconectar del server
+            os.system('nordvpn disconnect')
+            time.sleep(5)
+        else:
+            continue
 
 
-        
-money()
+if __name__ == '__main__':
+    # url variables
+    urls = runtime.get_urls()
+
+    # vpn servers
+    servers = runtime.get_servers()
+
+    # crear visitas
+    crearVista(servers, urls)
+
