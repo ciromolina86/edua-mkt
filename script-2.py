@@ -38,9 +38,9 @@ def abrirConsola(addresses):
 
 def abrirPagina(url):
     print(url)
-    driver = Firefox()
 
     try:
+        driver = Firefox()
         driver.get(url)
     except Exception as e:
         print('fallo al cargar {}'.format(url))
@@ -49,28 +49,25 @@ def abrirPagina(url):
 
     pyautogui.moveTo(500, 500, duration=2)
     pyautogui.moveTo(600, 500, duration=2)
-    time.sleep(11)
+    time.sleep(random.randint(10, 30))
     driver.quit()
 
 
 
 def crearVista(servers, urls):
-    # os.system('nordvpn login')
-    # os.system('ciromolina86@gmail.com')
-    # os.system('Atecfi3uPqDYecd')
-    # os.system('nordvpn connect')
     time.sleep(5)
     os.system('nordvpn disconnect')
     time.sleep(5)
+    counter = 0
 
-    for svr in servers:
+    for svr in servers[1000:3000]:
         # conectar al server
         response = os.system('nordvpn connect {}'.format(svr))
         time.sleep(5)
 
         if response == 0:
-            url1 = urls[random.randint(0, len(urls))]
-            url2 = urls[random.randint(0, len(urls))]
+            url1 = urls[random.randint(0, len(urls)-1)]
+            url2 = urls[random.randint(0, len(urls)-1)]
 
             for url in [url1, url2]:
                 # print(url)
@@ -79,6 +76,9 @@ def crearVista(servers, urls):
             # desconectar del server
             os.system('nordvpn disconnect')
             time.sleep(5)
+            counter += 1
+            print('counter ', counter)
+
         else:
             continue
 

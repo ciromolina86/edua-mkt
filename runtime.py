@@ -34,4 +34,6 @@ def get_urls():
     return urls
 
 if __name__ == '__main__':
-    get_servers()
+    print(get_servers()[::-1])
+    print(get_urls())
+    print(len(get_urls()))
